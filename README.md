@@ -18,9 +18,10 @@
 ## Пример:
 
 Входной код:
-if(r) {sms++;sms2;}
+<pre><code>if(r) {sms++;sms2;}</code></pre>
 
 Выход:
+<pre>
 File opened
 
 OUTPUT CODE:
@@ -37,4 +38,5 @@ CFG PAIRS:
 1 -> 2;
 2 -> 3;
 1 -> 3;
+</pre>
 
