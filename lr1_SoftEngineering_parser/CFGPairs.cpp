@@ -2,12 +2,6 @@
 #include <algorithm>
 
 
-
-//ctor and dtor
-CFGpairs::CFGpairs() : curInd(1), curIndStr("1"), jumpFlag(false) {};
-CFGpairs::~CFGpairs() {};
-
-
 ////basic methods
 
 // get current index (with correction for preceeding jump)

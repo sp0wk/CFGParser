@@ -42,8 +42,8 @@ private:
 
 public:
 	//ctor and dtor
-	CFGpairs();
-	~CFGpairs();
+	CFGpairs() : curInd(1), curIndStr("1"), jumpFlag(false) {};
+	~CFGpairs() {};
 
 	//basic methods
 	inline string getIndex() const { return curIndStr; }					// get current index number as string
