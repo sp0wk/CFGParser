@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lr1_SoftEngineering_parser", "lr1_SoftEngineering_parser\lr1_SoftEngineering_parser.vcxproj", "{A0E0FB05-BC20-4997-BC60-D1BF9F829880}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CFGParser", "CFGParser\CFGParser.vcxproj", "{A0E0FB05-BC20-4997-BC60-D1BF9F829880}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CFGParserDLL", "CFGParserDLL\CFGParserDLL.vcxproj", "{27B1E974-0C1A-4746-8211-D8D62766A32D}"
 EndProject

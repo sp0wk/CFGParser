@@ -13,7 +13,8 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{A0E0FB05-BC20-4997-BC60-D1BF9F829880}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>lr1_SoftEngineering_parser</RootNamespace>
+    <RootNamespace>CFGParser</RootNamespace>
+    <ProjectName>CFGParser</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

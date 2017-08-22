@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\lr1_SoftEngineering_parser\CFGPairs.h">
+    <ClInclude Include="..\CFGParser\CFGPairs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\lr1_SoftEngineering_parser\parser_source\class_GrammarCompiler.h">
+    <ClInclude Include="..\CFGParser\parser_source\class_GrammarCompiler.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\lr1_SoftEngineering_parser\parser_source\class_Parser.h">
+    <ClInclude Include="..\CFGParser\parser_source\class_Parser.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="DLL_CFGparser.h">
@@ -32,13 +32,13 @@
     <ClCompile Include="DLL_CFGparser.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\lr1_SoftEngineering_parser\CFGPairs.cpp">
+    <ClCompile Include="..\CFGParser\CFGPairs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\lr1_SoftEngineering_parser\parser_source\class_GrammarCompiler.cpp">
+    <ClCompile Include="..\CFGParser\parser_source\class_GrammarCompiler.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\lr1_SoftEngineering_parser\parser_source\class_Parser.cpp">
+    <ClCompile Include="..\CFGParser\parser_source\class_Parser.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
