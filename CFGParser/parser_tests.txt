@@ -27,7 +27,7 @@ while (true) {
 	break;
 }
 
-// OK (case accepts only one statement)
+//ok
 switch (c)
 {
 	case '1': {
@@ -61,7 +61,7 @@ do
 } 
 while (true);
 
-//just ok
+//ok
 do {
 	int rrr =55;
 SMLBL:
